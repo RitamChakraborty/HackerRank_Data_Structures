@@ -2,3 +2,4 @@
 
 ## Arrays
 - [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
+- [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)

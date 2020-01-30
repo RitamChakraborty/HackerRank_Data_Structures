@@ -5,3 +5,4 @@
 - [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
 - [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 - [Sparse Array](https://www.hackerrank.com/challenges/sparse-arrays/problem)
+- [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)

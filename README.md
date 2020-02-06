@@ -6,3 +6,4 @@
 - [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 - [Sparse Array](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+- [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)

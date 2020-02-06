@@ -2,7 +2,6 @@ package arrays.array_manupulation;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Solution {

@@ -7,3 +7,6 @@
 - [Sparse Array](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
 - [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)
+
+## Linked List
+- [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
